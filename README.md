@@ -4,11 +4,11 @@ Finance Tracker to keep track of your money
 
 # Table of contents
 
-• [Installation](https://github.com/pinkozz/german_reminder#installation)
+• [Installation](https://github.com/z1ppyyy/Finance-Tracker?tab=readme-ov-file#installation)
 
-• [Usage](https://github.com/pinkozz/german_reminder#usage)
+• [Usage](https://github.com/z1ppyyy/Finance-Tracker?tab=readme-ov-file#usage)
 
-• [Contributing](https://github.com/pinkozz/german_reminder#contributing)
+• [Contributing](https://github.com/z1ppyyy/Finance-Tracker?tab=readme-ov-file#contributing)
 
 
 # Installation
